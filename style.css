@@ -1,0 +1,23 @@
+table{
+    background-color:  rgb(255, 255, 255);
+    width: 800px;
+    height: 200px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 13pt;
+    text-align: left;
+    font-style: italic;
+   
+    letter-spacing: 2px;
+    
+   
+   
+    border-spacing:25px 3px;
+    border-bottom: 0px;
+    border-top: 0px;
+    border-left: 10px;
+    border-right: 10px;
+}
+TD{
+    border: 1px dotted black;
+    background-color: rgba(133, 133, 133, 0.589);
+}
